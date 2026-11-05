@@ -1,0 +1,15 @@
+{
+  "repository": "module-automation-approvals-nuxt",
+  "capabilityKey": "liberusoftware/automation-approvals",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-automation-approvals-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/automation/nextjs/approvals.md",
+  "presentationPlan": "projects/automation/nuxt/approvals.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "automation"
+  ]
+}
